@@ -16,12 +16,12 @@ public class main {
 		resultado = suma(numero1,numero2);
 		resultado2 = resta(numero1,numero2);
 		resultado3 = producto(numero1,numero2);
-		//resultado4 = resta(numero1,numero2);
+		resultado4 = resta(numero1,numero2);
 		
 		System.out.println("El resultado es: " + resultado);
 		System.out.println("El resultado es: " + resultado2);
 		System.out.println("El resultado es: " + resultado3);
-		//System.out.println("El resultado es: " + resultado4);
+		System.out.println("El resultado es: " + resultado4);
 		
 	}
 	
